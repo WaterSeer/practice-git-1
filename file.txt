@@ -1,1 +1,3 @@
 My first line in project
+For understand Index working
+Change file  again aftef "git add"
